@@ -1,0 +1,15 @@
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\exercEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\exercEnums.AssemblyInfoInputs.cache
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\exercEnums.AssemblyInfo.cs
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\exercEnums.csproj.CoreCompileInputs.cache
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\exercEnums.sourcelink.json
+C:\Users\jowjowpcpc\source\repos\exercEnums\bin\Debug\net8.0\exercEnums.exe
+C:\Users\jowjowpcpc\source\repos\exercEnums\bin\Debug\net8.0\exercEnums.deps.json
+C:\Users\jowjowpcpc\source\repos\exercEnums\bin\Debug\net8.0\exercEnums.runtimeconfig.json
+C:\Users\jowjowpcpc\source\repos\exercEnums\bin\Debug\net8.0\exercEnums.dll
+C:\Users\jowjowpcpc\source\repos\exercEnums\bin\Debug\net8.0\exercEnums.pdb
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\exercEnums.dll
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\refint\exercEnums.dll
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\exercEnums.pdb
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\exercEnums.genruntimeconfig.cache
+C:\Users\jowjowpcpc\source\repos\exercEnums\obj\Debug\net8.0\ref\exercEnums.dll
